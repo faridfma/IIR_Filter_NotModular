@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Cascaded_ChbyChevII_Fc37K5_Fp100K_Astop60_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Cascaded_ChbyChevII_Fc37K5_Fp100K_Astop60" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="16410670000000fs"></ZoomStartTime>
+      <ZoomEndTime time="17064670000001fs"></ZoomEndTime>
+      <Cursor1Time time="16955670000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="263"></NameColumnWidth>
+      <ValueColumnWidth column_width="58"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="11" />
+   <wave_markers>
+      <marker time="2405000000" label="" />
+   </wave_markers>
+   <wvobject fp_name="/Cascaded_ChbyChevII_Fc37K5_Fp100K_Astop60/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Cascaded_ChbyChevII_Fc37K5_Fp100K_Astop60/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Cascaded_ChbyChevII_Fc37K5_Fp100K_Astop60/sample_valid_in" type="logic">
+      <obj_property name="ElementShortName">sample_valid_in</obj_property>
+      <obj_property name="ObjectShortName">sample_valid_in</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Cascaded_ChbyChevII_Fc37K5_Fp100K_Astop60/x_in_Sig" type="array">
+      <obj_property name="ElementShortName">x_in_Sig[15:0]</obj_property>
+      <obj_property name="ObjectShortName">x_in_Sig[15:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      <obj_property name="WaveformStyle">STYLE_ANALOG</obj_property>
+      <obj_property name="CellHeight">100</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Cascaded_ChbyChevII_Fc37K5_Fp100K_Astop60/iir_out" type="array">
+      <obj_property name="ElementShortName">iir_out[15:0]</obj_property>
+      <obj_property name="ObjectShortName">iir_out[15:0]</obj_property>
+      <obj_property name="WaveformStyle">STYLE_ANALOG</obj_property>
+      <obj_property name="CellHeight">100</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Cascaded_ChbyChevII_Fc37K5_Fp100K_Astop60/sample_validin_Sig" type="logic">
+      <obj_property name="ElementShortName">sample_validin_Sig</obj_property>
+      <obj_property name="ObjectShortName">sample_validin_Sig</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Cascaded_ChbyChevII_Fc37K5_Fp100K_Astop60/clockcounter" type="other">
+      <obj_property name="ElementShortName">clockcounter</obj_property>
+      <obj_property name="ObjectShortName">clockcounter</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Cascaded_ChbyChevII_Fc37K5_Fp100K_Astop60/BiQuad1_sample_valid_out" type="logic">
+      <obj_property name="ElementShortName">BiQuad1_sample_valid_out</obj_property>
+      <obj_property name="ObjectShortName">BiQuad1_sample_valid_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Cascaded_ChbyChevII_Fc37K5_Fp100K_Astop60/BiQuad2_sample_valid_out" type="logic">
+      <obj_property name="ElementShortName">BiQuad2_sample_valid_out</obj_property>
+      <obj_property name="ObjectShortName">BiQuad2_sample_valid_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Cascaded_ChbyChevII_Fc37K5_Fp100K_Astop60/BiQuad3_sample_valid_out" type="logic">
+      <obj_property name="ElementShortName">BiQuad3_sample_valid_out</obj_property>
+      <obj_property name="ObjectShortName">BiQuad3_sample_valid_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Cascaded_ChbyChevII_Fc37K5_Fp100K_Astop60/InputData" type="array">
+      <obj_property name="ElementShortName">InputData[0:1559][15:0]</obj_property>
+      <obj_property name="ObjectShortName">InputData[0:1559][15:0]</obj_property>
+   </wvobject>
+</wave_config>

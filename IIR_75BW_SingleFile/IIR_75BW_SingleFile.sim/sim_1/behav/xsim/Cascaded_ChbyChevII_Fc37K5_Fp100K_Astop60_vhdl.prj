@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../VHDL/Noisy_Signal_Generation.vhd" \
+"../../../../../VHDL/Cascaded_ChbyChevII_Fc37K5_Fp100K_Astop60.vhd" \
+
+# Do not sort compile order
+nosort

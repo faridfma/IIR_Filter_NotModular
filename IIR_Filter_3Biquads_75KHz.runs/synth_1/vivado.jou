@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Wed May 21 17:43:28 2025
+# Process ID: 12916
+# Current directory: C:/Users/fmabrouk/Documents/Embedded_design/IIR_Filter_3Biquads_75KHz/IIR_Filter_3Biquads_75KHz.runs/synth_1
+# Command line: vivado.exe -log Cascaded_ChbyChevII_Fc37K5_Fp100K_Astop60.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Cascaded_ChbyChevII_Fc37K5_Fp100K_Astop60.tcl
+# Log file: C:/Users/fmabrouk/Documents/Embedded_design/IIR_Filter_3Biquads_75KHz/IIR_Filter_3Biquads_75KHz.runs/synth_1/Cascaded_ChbyChevII_Fc37K5_Fp100K_Astop60.vds
+# Journal file: C:/Users/fmabrouk/Documents/Embedded_design/IIR_Filter_3Biquads_75KHz/IIR_Filter_3Biquads_75KHz.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Cascaded_ChbyChevII_Fc37K5_Fp100K_Astop60.tcl -notrace
